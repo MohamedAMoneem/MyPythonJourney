@@ -27,5 +27,4 @@ for i in range(-6,0):
                 show[loc] = guess
         print(show)
         testing if change happens:
-        
-2eiunnnnnnnnnnnnnnnnnn23ni3r
+    
