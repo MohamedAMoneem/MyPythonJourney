@@ -26,4 +26,5 @@ for i in range(-6,0):
             if rand[loc] == guess:
                 show[loc] = guess
         print(show)
+        testing if change happens:
         
