@@ -1,7 +1,0 @@
-rock = 0
-paper = 1
-scissors = 2
-0 , 1 / 1 , 0 = paper
-1 , 2 / 2 , 1 = scissors
-2 , 0 / 0 , 2 = rock
-both numbers equal = tie
